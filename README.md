@@ -38,7 +38,7 @@ I just wanted to practice some coding and a reverse tcp shell for windows with e
 
 - Clone the repo to compile it and modify it (Make sure to have golang installed!)
 ```bash
-git clone 
+git clone https://github.com/Alpharivs/go-shell.git
 ```
 - Prepare and compile the payload
 ```bash
