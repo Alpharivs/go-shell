@@ -1,5 +1,5 @@
 <div >
-    <img src="assets/owl.png" align="left" height="40px" width="40px"/>
+    <img src="assets/owl.jpg" align="left" height="40px" width="40px"/>
     <img src="assets/medusa.png" align="right" height="40px" width="40px"/>
     <h1 align="center" > Go-Shell - Golang Reverse TCP Shell </h1>
 </div>
