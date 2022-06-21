@@ -1,21 +1,6 @@
-<style>
-.img1 {
-  float: left;
-  width: 40px;
-  height: 40px;
-}
-
-.img2 {
-  float: right;
-  width: 40px;
-  height: 40px;
-}
-
-</style>
-
 <div >
-    <img src="assets/owl.png" class="img1"/>
-    <img src="assets/medusa.png" class="img2"/>
+    <img src="assets/owl.png" align="left" height="40px" width="40px"/>
+    <img src="assets/medusa.png" align="right" height="40px" width="40px"/>
     <h1 align="center" > Go-Shell - Golang Reverse TCP Shell </h1>
 </div>
 
