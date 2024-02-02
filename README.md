@@ -6,7 +6,7 @@
 
 ## About
 
-Windows 32/64 encrypted reverse TCP shell a simplified version inspirado in [hershell](https://github.com/lesnuages/hershell) which has a lot more features like cross compile to linux (check it out!).
+Windows 32/64 encrypted reverse TCP shell a simplified version inspired in [hershell](https://github.com/lesnuages/hershell) which has a lot more features like cross compile to linux (check it out!).
 
 <img src="assets/gopher.png" align="right" width="180" height="200" />
 
