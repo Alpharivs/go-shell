@@ -16,4 +16,4 @@ windows64:
 	GOOS=windows GOARCH=amd64 ${BUILD} ${WIN_LDFLAGS} -o ${OUT_WINDOWS} ${SRC}
 
 clean:
-	rm -f ${SRV_KEY} ${SRV_PEM} ${OUT_LINUX} ${OUT_WINDOWS}
+	rm -f ${SRV_KEY} ${SRV_PEM} ${OUT_WINDOWS}
